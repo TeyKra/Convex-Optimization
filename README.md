@@ -7,4 +7,4 @@ Build a model to solve a machine learning task (classification, regression, clus
 
 ### 1. Datasets
 
-- **[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)** The data set that we took for this project
+- **[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)** The dataset that we took for this project
